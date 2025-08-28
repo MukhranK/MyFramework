@@ -1,2 +1,6 @@
 git remote add origin
 git remote -v
+git add .
+git commit -m "....."
+git status
+git push origin master
