@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e+E26QwvFYw=",
+  "dgSpecHash": "ua0zar/Y014=",
   "success": true,
-  "projectFilePath": "D:\\1Prog\\MyFramework\\JwtAuthentication\\JwtAuthentication\\JwtAuthentication.csproj",
+  "projectFilePath": "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\JwtAuthentication\\JwtAuthentication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

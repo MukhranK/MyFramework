@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1Prog\\MyFramework\\JwtAuthentication\\JwtAuthentication\\JwtAuthentication.csproj": {}
+    "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\JwtAuthentication\\JwtAuthentication.csproj": {}
   },
   "projects": {
-    "D:\\1Prog\\MyFramework\\JwtAuthentication\\JwtAuthentication\\JwtAuthentication.csproj": {
+    "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\JwtAuthentication\\JwtAuthentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1Prog\\MyFramework\\JwtAuthentication\\JwtAuthentication\\JwtAuthentication.csproj",
+        "projectUniqueName": "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\JwtAuthentication\\JwtAuthentication.csproj",
         "projectName": "JwtAuthentication",
-        "projectPath": "D:\\1Prog\\MyFramework\\JwtAuthentication\\JwtAuthentication\\JwtAuthentication.csproj",
+        "projectPath": "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\JwtAuthentication\\JwtAuthentication.csproj",
         "packagesPath": "C:\\Users\\Dato\\.nuget\\packages\\",
-        "outputPath": "D:\\1Prog\\MyFramework\\JwtAuthentication\\JwtAuthentication\\obj\\",
+        "outputPath": "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\JwtAuthentication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
