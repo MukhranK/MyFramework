@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28669889-7468-4C8D-AFDB-66EA87CC5693}|JwtAuthentication\\JwtAuthentication.csproj|d:\\1prog\\myframework\\webapi\\jwtauthentication\\jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28669889-7468-4C8D-AFDB-66EA87CC5693}|JwtAuthentication\\JwtAuthentication.csproj|solutionrelative:jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28669889-7468-4C8D-AFDB-66EA87CC5693}|JwtAuthentication\\JwtAuthentication.csproj|d:\\1prog\\myframework\\webapi\\jwtauthentication\\jwtauthentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28669889-7468-4C8D-AFDB-66EA87CC5693}|JwtAuthentication\\JwtAuthentication.csproj|solutionrelative:jwtauthentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28669889-7468-4C8D-AFDB-66EA87CC5693}|JwtAuthentication\\JwtAuthentication.csproj|d:\\1prog\\myframework\\webapi\\jwtauthentication\\jwtauthentication\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28669889-7468-4C8D-AFDB-66EA87CC5693}|JwtAuthentication\\JwtAuthentication.csproj|solutionrelative:jwtauthentication\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28669889-7468-4C8D-AFDB-66EA87CC5693}|JwtAuthentication\\JwtAuthentication.csproj|d:\\1prog\\myframework\\webapi\\jwtauthentication\\jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28669889-7468-4C8D-AFDB-66EA87CC5693}|JwtAuthentication\\JwtAuthentication.csproj|solutionrelative:jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\JwtAuthentication\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "JwtAuthentication\\Entities\\User.cs",
-              "ToolTip": "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\JwtAuthentication\\Entities\\User.cs",
-              "RelativeToolTip": "JwtAuthentication\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T11:59:28.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\JwtAuthentication\\Program.cs",
               "RelativeDocumentMoniker": "JwtAuthentication\\Program.cs",
@@ -48,7 +35,39 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T11:57:21.081Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\JwtAuthentication\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "JwtAuthentication\\Entities\\User.cs",
+              "ToolTip": "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\JwtAuthentication\\Entities\\User.cs",
+              "RelativeToolTip": "JwtAuthentication\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:59:28.054Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\JwtAuthentication\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "JwtAuthentication\\Entities\\Entity.cs",
+              "ToolTip": "D:\\1Prog\\MyFramework\\WebApi\\JwtAuthentication\\JwtAuthentication\\Entities\\Entity.cs",
+              "RelativeToolTip": "JwtAuthentication\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:06:59.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         },
