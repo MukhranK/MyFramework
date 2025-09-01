@@ -1,0 +1,15 @@
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\bin\Debug\net9.0\Delegate.exe
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\bin\Debug\net9.0\Delegate.deps.json
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\bin\Debug\net9.0\Delegate.runtimeconfig.json
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\bin\Debug\net9.0\Delegate.dll
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\bin\Debug\net9.0\Delegate.pdb
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\obj\Debug\net9.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfoInputs.cache
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfo.cs
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\obj\Debug\net9.0\Delegate.csproj.CoreCompileInputs.cache
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\obj\Debug\net9.0\Delegate.sourcelink.json
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\obj\Debug\net9.0\Delegate.dll
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\obj\Debug\net9.0\refint\Delegate.dll
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\obj\Debug\net9.0\Delegate.pdb
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\obj\Debug\net9.0\Delegate.genruntimeconfig.cache
+D:\1Prog\MyFramework\CSharp\Delegate\Delegate\obj\Debug\net9.0\ref\Delegate.dll

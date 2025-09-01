@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\1Prog\\MyFramework\\CSharp\\Delegate\\",
+  "WorkspaceRootPath": "D:\\1Prog\\MyFramework\\CSharp\\PasswordHash\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35DE4D54-876F-4618-9F0B-849A1CF667EE}|Delegate\\Delegate.csproj|d:\\1prog\\myframework\\csharp\\delegate\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35DE4D54-876F-4618-9F0B-849A1CF667EE}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBBFD03D-BBAD-4C96-B413-ACA5D182F232}|PasswordHash\\PasswordHash.csproj|d:\\1prog\\myframework\\csharp\\passwordhash\\passwordhash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBFD03D-BBAD-4C96-B413-ACA5D182F232}|PasswordHash\\PasswordHash.csproj|solutionrelative:passwordhash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\1Prog\\MyFramework\\CSharp\\Delegate\\Delegate\\Program.cs",
-              "RelativeDocumentMoniker": "Delegate\\Program.cs",
-              "ToolTip": "D:\\1Prog\\MyFramework\\CSharp\\Delegate\\Delegate\\Program.cs*",
-              "RelativeToolTip": "Delegate\\Program.cs*",
+              "DocumentMoniker": "D:\\1Prog\\MyFramework\\CSharp\\PasswordHash\\PasswordHash\\Program.cs",
+              "RelativeDocumentMoniker": "PasswordHash\\Program.cs",
+              "ToolTip": "D:\\1Prog\\MyFramework\\CSharp\\PasswordHash\\PasswordHash\\Program.cs",
+              "RelativeToolTip": "PasswordHash\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T10:44:58.895Z",
+              "WhenOpened": "2025-09-01T11:00:04.801Z",
               "EditorCaption": ""
             }
           ]
