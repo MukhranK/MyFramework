@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kbFXKb6U5vs=",
+  "dgSpecHash": "eJNYKsw2MKU=",
   "success": true,
   "projectFilePath": "D:\\1Prog\\MyFramework\\CSharp\\PasswordHash\\PasswordHash\\PasswordHash.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dato\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\9.0.8\\microsoft.aspnetcore.cryptography.internal.9.0.8.nupkg.sha512",
+    "C:\\Users\\Dato\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\9.0.8\\microsoft.aspnetcore.cryptography.keyderivation.9.0.8.nupkg.sha512"
+  ],
   "logs": []
 }
